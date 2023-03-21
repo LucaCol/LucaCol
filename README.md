@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **LucaCol/LucaCol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi there, my name is Luca, I'm a ML and AI engineer.
+- 🎓 Master Degree in Computer Science & Engineering at Politecnico di Milano.
+- 👀 I’m interested in anything related to the world of machine learning, deep learning and artificial intelligence.
+- 👾 I'm an enthusiast gamer, I play guitar and I love skateboarding.
+- 📫 [Twitter](https://twitter.com/LucaColombo4) , [LinkedIn](https://www.linkedin.com/in/luca-colombo-b6089a263/)
